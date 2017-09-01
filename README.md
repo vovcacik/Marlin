@@ -1,3 +1,10 @@
+>This branch is reproduction of changes that [Flsun][] made to [Marlin firmware][] for the [Flsun Prusa i3][] 3D printer as I found it on included SD card from my order on 2017-08-22. I assume the sources on the SD card were flashed to my printer's motherboard. This note is my only addition to this branch.
+>
+>[Flsun]: https://github.com/FLSun3dp
+>[Flsun Prusa i3]: https://www.aliexpress.com/item/Flsun-3D-Printer-Prusa-I3-Dual-extruderKits-Auto-leveling-Aluminum-Frame-Large-3D-Printing-Size-Heated/32679964210.html
+>[Marlin firmware]: https://github.com/MarlinFirmware/Marlin
+>
+>--- original README.md continues below ---
 # Marlin 3D Printer Firmware
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
